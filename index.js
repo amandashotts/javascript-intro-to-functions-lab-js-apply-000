@@ -3,9 +3,9 @@ function shout (string) {
   return string.toUpperCase()
 }
 
-function logShout ()
+function logShout (string)
 {
-  console.log(shout)
+  console.log(shout(string))
 }
 
 
