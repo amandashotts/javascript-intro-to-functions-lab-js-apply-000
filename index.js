@@ -1,2 +1,2 @@
 var string = 'idk'
-var shout = string.toUpperCase();
+var shout = 'string'.toUpperCase();
