@@ -1,4 +1,4 @@
 var string = 'idk'
-function shout () {
-  toUpperCase()
+function shout (word) {
+  word.toUpperCase()
 }
